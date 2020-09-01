@@ -7,3 +7,5 @@ First purple branch commit.
 Second purple branch commit.
 
 first commit after merging to master. 
+
+second commit after merging to master.
